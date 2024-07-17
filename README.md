@@ -1,6 +1,6 @@
-# Basic RNTL setup
+# Basic RNTL setup with Redux
 
-This example is shows a basic modern React Native Testing Library setup in a template Expo app.
+This example is shows a redux modern React Native Testing Library setup in a template Expo app.
 
 The app and related tests written in TypeScript, and it uses recommended practices like:
 
